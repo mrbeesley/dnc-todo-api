@@ -1,0 +1,14 @@
+C:\code-personal\dnc-todo-api\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\code-personal\dnc-todo-api\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\code-personal\dnc-todo-api\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\code-personal\dnc-todo-api\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\code-personal\dnc-todo-api\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\code-personal\dnc-todo-api\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+C:\code-personal\dnc-todo-api\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\code-personal\dnc-todo-api\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\code-personal\dnc-todo-api\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\code-personal\dnc-todo-api\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\code-personal\dnc-todo-api\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\code-personal\dnc-todo-api\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\code-personal\dnc-todo-api\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\code-personal\dnc-todo-api\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
