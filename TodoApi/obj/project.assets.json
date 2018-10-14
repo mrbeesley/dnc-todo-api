@@ -4338,7 +4338,7 @@
   },
   "libraries": {
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
-      "sha512": "AIgEc1up4pvH8kXy+eG1x4Qfqd6piAq3yk11pveCQXWNkkYoiKdflSmcJZuWcerdMcAaoF0xC/mWGoTW4vF4Dg==",
+      "sha512": "rMDlyePoxggkmN/qgha1+BR2Uy+dOr38xKCQOPfVNKGY07R2nYJGMTKJFE1XFgwD70RYUNazf2fqutjJF18XgQ==",
       "type": "package",
       "path": "microsoft.aspnet.webapi.client/5.2.6",
       "files": [
@@ -5170,7 +5170,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.1": {
-      "sha512": "f8PKGcxiezL1RVqmnmrazj24Mj4KCTSXqwdotl7Lc+82h8iLV7ItxEIShTJakG7M9iw0ZuCocM0J/IhYesdQrg==",
+      "sha512": "BOK5fckW9v7xWjpEI6bPGwkjw10OPVASZcAa8HoWJo/0Mmg4Azddj92v8noU+YgvD/6zNZ9o/RiRXXKxk5rYwQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.1",
       "files": [
@@ -11500,31 +11500,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mbeesley\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/mbeesley/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code-personal\\dnc-todo-api\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "/Users/mbeesley/code/personal/dnc-todo-api/TodoApi/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\code-personal\\dnc-todo-api\\TodoApi\\TodoApi.csproj",
-      "packagesPath": "C:\\Users\\mbeesley\\.nuget\\packages\\",
-      "outputPath": "C:\\code-personal\\dnc-todo-api\\TodoApi\\obj\\",
+      "projectPath": "/Users/mbeesley/code/personal/dnc-todo-api/TodoApi/TodoApi.csproj",
+      "packagesPath": "/Users/mbeesley/.nuget/packages/",
+      "outputPath": "/Users/mbeesley/code/personal/dnc-todo-api/TodoApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mbeesley\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mbeesley/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.smg.com/nuget/default": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
